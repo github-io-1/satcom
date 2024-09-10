@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SATCOM - Rastreo Satelital para Vehículos</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+background-color: #f4f4f4;
+margin: 0;
+padding: 0;
+color: #333;
+}
+header {
+background-color: #004080;
+color: white;
+padding: 20px 0;
+text-align: center;
+font-size: 2em;
+font-weight: bold;
+}
+.container {
+width: 80%;
+margin: auto;
+overflow: hidden;
+}
+section {
+padding: 20px 0;
+text-align: center;
+}
+.service {
+background-color: #fff;
+margin: 20px 0;
+padding: 20px;
+border-radius: 10px;
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+h2 {
+color: #004080;
+}
+ul {
+list-style-type: none;
+padding: 0;
+}
+li {
+background-color: #e6f2ff;
+margin: 10px 0;
+padding: 15px;
+border-radius: 5px;
+font-weight: bold;
+}
+footer {
+background-color: #004080;
+color: white;
+text-align: center;
+padding: 10px 0;
+position: fixed;
+bottom: 0;
+width: 100%;
+}
+</style>
+</head>
+<body>
+
+<header>
+SATCOM
+</header>
+
+<div class="container">
+<section>
+<h2>Rastreo Satelital para Vehículos</h2>
+<p>Con SATCOM, mantén tu vehículo seguro y bajo control en todo momento. Nuestro sistema avanzado ofrece una variedad de funciones para proteger tu inversión y mantenerte informado.</p>
+</section>
+
+<section>
+<div class="service">
+<h3>Características del Servicio</h3>
+<ul>
+<li>Ubicación del vehículo en todo momento</li>
+<li>Aviso de encendido</li>
+<li>Aviso de movimiento</li>
+<li>Corte de corriente</li>
+<li>Alerta de exceso de velocidad</li>
+<li>Geocercas</li>
+<li>Aviso de vencimientos</li>
+</ul>
+</div>
+</section>
+</div>
+
+<footer>
+&copy; 2024 SATCOM - Todos los derechos reservados
+</footer>
+
+</body>
+</html>
